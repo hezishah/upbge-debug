@@ -1,0 +1,1 @@
+/Applications/Blenderplayer.app/Contents/MacOS/Blenderplayer -p hello.py cube.blend
